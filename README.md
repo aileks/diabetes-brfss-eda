@@ -23,7 +23,7 @@ If `poetry shell` fails, enable the plugin:
 poetry self add poetry-plugin-shell
 ```
 
-Open `diabetes_health_indicators_eda.ipynb` and run all cells. A full PDF summary is available at: `Diabetes_Health_Analysis_Report.pdf`.
+Open `diabetes_health_indicators_eda.ipynb` and run all cells. A full PDF summary is available at: [Diabetes_Health_Analysis_Report.pdf](./Diabetes_Health_Analysis_Report.pdf).
 
 ## Core Objectives
 
@@ -44,12 +44,12 @@ Open `diabetes_health_indicators_eda.ipynb` and run all cells. A full PDF summar
 
 ## Additional Documentation
 
-- Dataset reference: [DATASET.md](./docs/DATASET.md)
+- Dataset reference: [DATASET](./docs/DATASET.md)
 - Methodology notes: [METHODOLOGY](./docs/methodology.md)
 
 ## Data Source
 
-The data used in this analysis is based on the Behavioral Risk Factor Surveillance System (BRFSS) 2015 report, a health-related telephone survey collected annually by the CDC. The data can be found [here](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
+The data used in this analysis is based on the Behavioral Risk Factor Surveillance System (BRFSS) 2015 report, a health-related telephone survey collected annually by the CDC. The data can be found [here](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset).
 
 ## References and Resources
 
