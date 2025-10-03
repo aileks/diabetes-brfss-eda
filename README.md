@@ -6,14 +6,21 @@ Exploratory analysis of health indicators associated with diabetes status using 
 
 > [!NOTE] This project is managed by [poetry](https://python-poetry.org/docs/).
 
-Clone the repository and install dependencies:
+Install poetry if you haven't already:
+
+```bash
+curl -sSL https://install.python-poetry.org | python3 -
+```
+
+Clone the repository and run as follows:
 
 ```bash
 git clone https://github.com/aileks/diabetes-brfss-eda.git
 cd diabetes-brfss-eda
-curl -sSL https://install.python-poetry.org | python3 -
+
 poetry install --no-root
 poetry shell
+
 jupyter notebook diabetes_health_indicators_eda.ipynb
 ```
 
