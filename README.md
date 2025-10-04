@@ -4,7 +4,8 @@ Exploratory analysis of health indicators associated with diabetes status using 
 
 ## Getting Started
 
-> [!NOTE] This project is managed by [poetry](https://python-poetry.org/docs/).
+> [!NOTE]
+> This project is managed by [poetry](https://python-poetry.org/docs/).
 
 Install poetry if you haven't already:
 
